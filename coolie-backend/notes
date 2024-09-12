@@ -1,0 +1,23 @@
+DATABASE TABLE PAGEINFO
+
+string name
+string description
+text value
+
+
+
+
+ENTRIES
+
+LandingPagePhoto | Image for Landing page | landingpage.jpg
+SpotifyLink | Landing Page Spotify Song Link | https://
+BiographyText | Biography text | huge text
+Facebook | fb page | https:
+Instagram | insta page | https:
+Youtube | yt page | https:
+soundcloud | soundcloud page | https:
+spotifypage | spotify page | https:
+phone | contact number | 0300
+bookings | contact | https:
+management | contact | https:
+pr | contact | https:
